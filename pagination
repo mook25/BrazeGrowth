@@ -545,7 +545,7 @@ line-height: 32px;
         </div>
 
         <div class="slick-container">
-          <!-- 소재 수정하기 -->
+          <!-- 소재수정하기 -->
           <!-- FIRST SLIDE of IAM pagination -->
           <div class="slick-slide first">
             <div class="top-container">
