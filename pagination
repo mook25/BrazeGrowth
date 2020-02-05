@@ -606,7 +606,7 @@ line-height: 32px;
             <a id="0" class="button-right-link" href="#/"><p>다음</p></a>
           </div>
           <div class="button-center">
-            <a id="1" href="#/" onclick="appboyBridge.closeMessage()"><p>지금 바로 브랜디에서 혜택누려보기 >> </p></a>
+            <a id="1" href="딥링크 입력" onclick="appboyBridge.closeMessage()"><p>지금 바로 브랜디에서 혜택누려보기 >> </p></a>
           </div>
         </footer>
       </div>
